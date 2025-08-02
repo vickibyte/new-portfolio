@@ -47,7 +47,12 @@ const Hero = () => {
                     <div className="flex items-center gap-3">
                         <ButtonPrimary 
                         label ="Download CV"
-                        icon="download"/>
+                        icon="download"
+                        href="/Bukola-David-CV.pdf"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        download
+                        />
 
                         <ButtonOutline 
                         // href="#about"
