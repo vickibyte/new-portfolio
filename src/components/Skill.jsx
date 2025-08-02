@@ -5,7 +5,7 @@
 /**
  * Components
  */
-import SkillCard from "./Skillcard";
+import SkillCard from "./SkillCard";
 
 
 
@@ -83,4 +83,4 @@ const Skill = () => {
     )
 }
 
-export default Skill
+export default Skill;
